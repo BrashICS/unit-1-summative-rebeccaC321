@@ -14,8 +14,8 @@ a:hover {
 }
 
 img {
-    object-position: center;
-    width: 300;
-
-}
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+  }
