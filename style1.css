@@ -1,0 +1,21 @@
+
+
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    color:rgb(61, 43, 226)
+}
+
+a:hover {
+    color:rgb(23, 122, 209)
+}
+
+img {
+    object-position: center;
+    width: 300;
+
+}
+
